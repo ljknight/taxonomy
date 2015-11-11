@@ -1,2 +1,2 @@
 #taxonomy
-Inheritance patterns.
+Inheritance patterns
